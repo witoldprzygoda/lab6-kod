@@ -1,0 +1,7 @@
+# środowisko wirtualne
+.venv/
+# kod bajtowy interpretera
+__pycache__/
+*.pyc
+# pamięć podręczna pytest
+.pytest_cache/
